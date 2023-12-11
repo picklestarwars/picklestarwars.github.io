@@ -27,7 +27,7 @@ hello everyone this is my first website
 		</section>
 		<section id="resume">
 			<h2>Fun stuff</h2>
-			<p>Insert your fun stuff here.</p>
+			<p><img src=".jpg" alt="Girl in a jacket" width="500" height="600"></p>
 		</section>
 		<section id="contact">
 			<h2>Contact Me</h2>
