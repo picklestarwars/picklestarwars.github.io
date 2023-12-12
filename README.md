@@ -40,30 +40,3 @@ hello everyone this is my first website
 </body>
 </html>
 
-<html>
-<head>
-<style>
-  .confetti {
-    position: absolute;
-    width: 10px;
-    height: 10px;
-    background-color: #f00;
-    border-radius: 50%;
-    animation: confetti 1s ease-out infinite;
-  }
-  @keyframes confetti {
-    0% {
-      transform: translate(0, 0);
-      opacity: 1;
-    }
-    100% {
-      transform: translate(calc(100vw * 1.5), calc(100vh * 1.5));
-      opacity: 0;
-    }
-  }
-</style>
-</head>
-<body>
-  <div class="confetti"></div>
-</body>
-</html>
