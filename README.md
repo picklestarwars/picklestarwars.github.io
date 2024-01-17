@@ -1,5 +1,5 @@
 # picklestarwars.github.io
-website :)
+website 
 hello everyone this is my first website
 
 <html>
@@ -16,7 +16,7 @@ hello everyone this is my first website
 			<ul>
 				<li><a href="#about">About</a></li>
 				<li><a href="#fun stuff">fun stuff</a></li>
-				<li><a href="#contact">Contact</a></li>
+				<li><a href="#extra code">extra code</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -30,8 +30,8 @@ hello everyone this is my first website
 			<p><img src="cat03.jpg" alt="cat" width="500" height="600"></p>
 		</section>
 		<section id="contact">
-			<h2>Contact Me</h2>
-			<p>Insert your contact details here.</p>
+			<h2>extra code</h2>
+			<p>under construction, nothing yet</p>
 		</section>
 	</main>
 	<footer>
