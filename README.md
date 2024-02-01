@@ -1,7 +1,8 @@
 # Picklestarwars' website
 #### _made by Picklestarwars_
 ___________________________________________________
-![a nice cat](https://media.istockphoto.com/id/1188933024/photo/studio-shot-of-an-adorable-tabby-cat.jpg?s=612x612&w=0&k=20&c=I57wNa75x7TO7WKHKhUX3Usd84t44jQ4hJ-Mn9e2JVM=)
+![a nice cat](![IMG_20240129_162625](https://github.com/picklestarwars/picklestarwars.github.io/assets/153323835/d5492771-eace-4c1f-8cce-77633aa409f2)
+)
 ## The quote of the day
  It's a trap!
 ##### Admiral Ackbar
