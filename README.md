@@ -1,8 +1,9 @@
 # Picklestarwars' website
 #### _made by Picklestarwars_
 ___________________________________________________
-![a nice cat](![IMG_20240129_162625](https://github.com/picklestarwars/picklestarwars.github.io/assets/153323835/d5492771-eace-4c1f-8cce-77633aa409f2)
+(![IMG_20240129_162625](https://github.com/picklestarwars/picklestarwars.github.io/assets/153323835/6ffb0e97-2f20-48a9-8d75-7b53b54d577e)
 )
+
 ## The quote of the day
  It's a trap!
 ##### Admiral Ackbar
