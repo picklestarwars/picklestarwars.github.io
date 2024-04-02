@@ -8,10 +8,6 @@ ___________________________________________________
 ## The quote of the day
  It's a trap!
 ##### Admiral Ackbar
-## Extra code
-For python 
-###### Nothing yet, come back later
-## Stories
-###### Stories will be put here when written.
-## Picture Gallery
-###### Still nothing, contact me if you want to put a picture in the gallery.
+
+## Streaming Schedule
+ I try to stream on the weekends, and I try to have one video a week but I am still working on getting a good recording software working.
